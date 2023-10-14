@@ -1098,4 +1098,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service \
     manifest_android.hardware.drm@1.3-service.widevine \
     manifest_oplusSensor \
-    manifest_oplus_fingerprint
+    manifest_oplus_fingerprint \
+    vendor.qti.ims.connection-V1.0-java
+
